@@ -1,0 +1,17 @@
+
+StackOverflowLLD/bin/Debug/net8.0/StackOverflowLLD.deps.json
+*.dll
+*.cache
+*.txt
+StackOverflowLLD/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+StackOverflowLLD/obj/Debug/net8.0/apphost
+StackOverflowLLD/obj/Debug/net8.0/StackOverflowLLD.AssemblyInfo.cs
+*.pdb
+*.props
+StackOverflowLLD/obj/Debug/net8.0/StackOverflowLLD.GeneratedMSBuildEditorConfig.editorconfig
+StackOverflowLLD/obj/Debug/net8.0/StackOverflowLLD.GlobalUsings.g.cs
+StackOverflowLLD/obj/project.assets.json
+StackOverflowLLD/obj/StackOverflowLLD.csproj.nuget.dgspec.json
+StackOverflowLLD/obj/StackOverflowLLD.csproj.nuget.g.targets
+.DS_Store
+StackOverflowLLD/bin/Debug/net8.0/StackOverflowLLD.runtimeconfig.json
